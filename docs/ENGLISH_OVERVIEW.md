@@ -1,6 +1,6 @@
 # AI assisted porcelain image production
 
-## A personal animation experiment by Bakann Dy
+## My personal animation experiment
 
 This project explores how to turn the poses of a short animation excerpt into porcelain doll imagery while retaining gestures, costume details and timing. This public repository documents the production process and review decisions. It does not distribute the source artwork or derived images.
 

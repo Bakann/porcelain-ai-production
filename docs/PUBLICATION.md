@@ -4,7 +4,7 @@
 
 ## Ce qui est publié
 
-Un carnet documentaire sur le projet personnel de Bakann : intention, essais, processus, cas rencontrés, contrôles et organisation. Des tableaux fictifs rendent les principes de suivi faciles à comprendre. Une synthèse anglaise facilite la lecture par une équipe internationale.
+Un carnet documentaire sur mon projet personnel : intention, essais, processus, cas rencontrés, contrôles et organisation. Des tableaux fictifs rendent les principes de suivi faciles à comprendre. Une synthèse anglaise facilite la lecture par une équipe internationale.
 
 ## Ce qui reste exclu
 

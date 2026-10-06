@@ -10,8 +10,8 @@ Une image réussie isolément ne suffit pas. Dans une suite, le visage peut chan
 
 | Élément | État vérifié dans le dossier de production |
 | --- | --- |
-| Apparence des poupées et accessoires | Références choisies et validées par Bakann |
-| Premier passage pilote | Validé le 3 octobre 2026 par Bakann |
+| Apparence des poupées et accessoires | J’ai choisi et validé les références |
+| Premier passage pilote | J’ai validé le passage le 3 octobre 2026 |
 | Dessins de ce passage | 11 dessins retenus, avec des poses répétées selon le rythme source |
 | Cadence de lecture | 24 images par seconde |
 | Deuxième passage | Image de référence corrigée et validée le 6 octobre 2026 ; suite encore en construction |
@@ -33,7 +33,7 @@ J’ai fait relire les analyses et les résultats par les assistants. Quand un r
 - **ComfyUI, préparé et exécuté principalement avec Claude :** essais locaux de génération et certains remplissages ciblés. Des essais ont notamment utilisé FLUX.2 Klein et SDXL Turbo ; ce dossier ne distribue ni leurs poids ni leurs workflows.
 - **Claude :** préparation des entrées, analyses, scripts, montages, assemblages et propositions de revue.
 - **Codex :** appels à l’outil d’images, traçabilité, relecture et assistance à la documentation.
-- **Bakann :** exigences, direction des essais, retours visuels, décisions et validation.
+- **Mon rôle :** définir les exigences, diriger les essais, formuler les retours visuels et décider des validations.
 
 Cette répartition permet de suivre qui prépare, génère, assemble et examine les images.
 

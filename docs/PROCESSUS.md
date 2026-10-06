@@ -69,7 +69,7 @@ Un relais donne une tâche précise, les références retenues, les sorties prod
 
 ```mermaid
 sequenceDiagram
-    participant B as Bakann
+    participant B as Moi
     participant P as Préparation et assemblage
     participant G as Générateur via assistant
     B->>P: Précise le besoin et les gestes

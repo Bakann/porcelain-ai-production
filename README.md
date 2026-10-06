@@ -2,11 +2,11 @@
 
 ## Carnet d’un projet personnel d’animation assistée par IA
 
-**Projet personnel de Bakann Dy.** Transformer les poses d’un court extrait d’animation en images de poupées de porcelaine, puis les assembler en respectant les gestes, les costumes et le rythme de la source.
+Je transforme les poses d’un court extrait d’animation en images de poupées de porcelaine, puis je les assemble en respectant les gestes, les costumes et le rythme de la source.
 
 J’essaie de comprendre comment obtenir une suite d’images cohérentes avec des outils génératifs : quelles références fournir, comment repérer les erreurs et comment réutiliser les éléments qui fonctionnent. Ce carnet rassemble les essais, les difficultés rencontrées et l’organisation du travail.
 
-**Statut au 7 octobre 2026 :** un premier passage pilote validé par Bakann, constitué de 11 dessins et monté à 24 images par seconde ; une image de référence validée pour un second passage, dont la production reste en cours. Le film complet n’est pas terminé.
+**Statut au 7 octobre 2026 :** j’ai validé un premier passage pilote de 11 dessins, monté à 24 images par seconde, ainsi qu’une image de référence pour un second passage encore en cours de production. Le film complet n’est pas terminé.
 
 ### Lire en cinq minutes
 
