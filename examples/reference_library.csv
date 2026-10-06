@@ -1,0 +1,4 @@
+reference_id,example_file,scope,status,selected_by_role,data_type
+REF-001,hand_example_01.png,part,selected,artistic_owner,fictional
+REF-002,hand_example_02.png,part,rejected,artistic_owner,fictional
+REF-003,portrait_example.png,appearance,selected,artistic_owner,fictional

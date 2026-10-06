@@ -1,0 +1,4 @@
+case_id,candidate,observation,expected,protected_elements,decision,data_type
+CASE-001,candidate_01,extra_visible_finger,reference_gesture,face_and_costume,reject,fictional
+CASE-001,candidate_02,gesture_matches_example,reference_gesture,face_and_costume,select_for_assembly,fictional
+CASE-002,candidate_01,glove_over_upper_arm,bands_at_elbow_and_skin_above,hand_position_and_face,request_local_correction,fictional

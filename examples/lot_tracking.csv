@@ -1,0 +1,4 @@
+case_id,task,owner_role,example_due_date,max_calls,status,data_type
+CASE-001,review_hand,reviewer,2026-11-02,2,to_review,fictional
+CASE-002,repair_sleeve,production,2026-11-03,3,to_prepare,fictional
+CASE-003,check_sequence,reviewer,2026-11-04,0,to_review,fictional
